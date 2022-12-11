@@ -1,0 +1,118 @@
+[
+	{
+		"nameTranslated": "Acústico",
+		"name": "acoustic"
+	},
+	{
+		"nameTranslated": "Alternativo",
+		"name": "alternative"
+	},
+	{
+		"nameTranslated": "Blues",
+		"name": "blues"
+	},
+	{
+		"nameTranslated": "Chill",
+		"name": "chill"
+	},
+	{
+		"nameTranslated": "MPB",
+		"name": "mpb"
+	},
+	{
+		"nameTranslated": "Clássico",
+		"name": "classical"
+	},
+	{
+		"nameTranslated": "Country",
+		"name": "country"
+	},
+	{
+		"nameTranslated": "Eletro/Dance",
+		"name": "dance"
+	},
+	{
+		"nameTranslated": "Forró",
+		"name": "forro"
+	},
+	{
+		"nameTranslated": "Funk",
+		"name": "funk"
+	},
+	{
+		"nameTranslated": "Gospel",
+		"name": "gospel"
+	},
+	{
+		"nameTranslated": "Reggae",
+		"name": "reggae"
+	},
+	{
+		"nameTranslated": "Opera",
+		"name": "Opera"
+	},
+	{
+		"nameTranslated": "Grunge",
+		"name": "grunge"
+	},
+	{
+		"nameTranslated": "Heavy Metal",
+		"name": "heavy-metal"
+	},
+	{
+		"nameTranslated": "Indie",
+		"name": "indie"
+	},
+	{
+		"nameTranslated": "Latino",
+		"name": "latino"
+	},
+	{
+		"nameTranslated": "Pagode",
+		"name": "pagode"
+	},
+	{
+		"nameTranslated": "POP",
+		"name": "pop"
+	},
+	{
+		"nameTranslated": "Punk",
+		"name": "punk"
+	},
+	{
+		"nameTranslated": "Rock",
+		"name": "rock"
+	},
+	{
+		"nameTranslated": "Samba",
+		"name": "samba"
+	},
+	{
+		"nameTranslated": "Sertanejo",
+		"name": "sertanejo"
+	},
+	{
+		"nameTranslated": "Salsa",
+		"name": "salsa"
+	},
+	{
+		"nameTranslated": "Jazz",
+		"name": "jazz"
+	},
+	{
+		"nameTranslated": "K-Pop",
+		"name": "k-pop"
+	},
+	{
+		"nameTranslated": "Dubstep",
+		"name": "dubstep"
+	},
+	{
+		"nameTranslated": "Hip-Hop",
+		"name": "hip-hop"
+	},
+	{
+		"nameTranslated": "Tango",
+		"name": "tango"
+	}
+]
